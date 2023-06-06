@@ -1,0 +1,12 @@
+---
+artifact: ${project.groupId}:${project.artifactId}:${project.version}
+name: "Vault"
+metadata:
+  keywords:
+  - "vault"
+  - "security"
+  categories:
+  - "security"
+  guide: https://quarkiverse.github.io/quarkiverse-docs/quarkus-vault/dev/index.html
+  config:
+  - "quarkus.vault."

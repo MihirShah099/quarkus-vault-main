@@ -1,0 +1,45 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vsevel",
+      "name": "Vincent Sevel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6041620?v=4",
+      "profile": "https://github.com/vsevel",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "sberyozkin",
+      "name": "sberyozkin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/467639?v=4",
+      "profile": "https://github.com/sberyozkin",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "kdubb",
+      "name": "Kevin Wooten",
+      "avatar_url": "https://avatars.githubusercontent.com/u/787655?v=4",
+      "profile": "https://github.com/kdubb",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "quarkus-vault",
+  "projectOwner": "quarkiverse",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
